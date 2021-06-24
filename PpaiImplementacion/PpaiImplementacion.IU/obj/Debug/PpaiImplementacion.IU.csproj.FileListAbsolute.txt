@@ -1,0 +1,22 @@
+D:\Aaarchiv UTN mios\DisSist_2021_UTN\PPAI_Grupal_2021\Implem_CU-102-enCsrpVS\PpaiImplementacion\PpaiImplementacion.IU\bin\Debug\PpaiImplementacion.IU.exe.config
+D:\Aaarchiv UTN mios\DisSist_2021_UTN\PPAI_Grupal_2021\Implem_CU-102-enCsrpVS\PpaiImplementacion\PpaiImplementacion.IU\bin\Debug\PpaiImplementacion.IU.exe
+D:\Aaarchiv UTN mios\DisSist_2021_UTN\PPAI_Grupal_2021\Implem_CU-102-enCsrpVS\PpaiImplementacion\PpaiImplementacion.IU\bin\Debug\PpaiImplementacion.IU.pdb
+D:\Aaarchiv UTN mios\DisSist_2021_UTN\PPAI_Grupal_2021\Implem_CU-102-enCsrpVS\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.csproj.AssemblyReference.cache
+D:\Aaarchiv UTN mios\DisSist_2021_UTN\PPAI_Grupal_2021\Implem_CU-102-enCsrpVS\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.Pant_Principal.resources
+D:\Aaarchiv UTN mios\DisSist_2021_UTN\PPAI_Grupal_2021\Implem_CU-102-enCsrpVS\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.Properties.Resources.resources
+D:\Aaarchiv UTN mios\DisSist_2021_UTN\PPAI_Grupal_2021\Implem_CU-102-enCsrpVS\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.Venta_Entradas.resources
+D:\Aaarchiv UTN mios\DisSist_2021_UTN\PPAI_Grupal_2021\Implem_CU-102-enCsrpVS\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.csproj.GenerateResource.cache
+D:\Aaarchiv UTN mios\DisSist_2021_UTN\PPAI_Grupal_2021\Implem_CU-102-enCsrpVS\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.csproj.CoreCompileInputs.cache
+D:\Aaarchiv UTN mios\DisSist_2021_UTN\PPAI_Grupal_2021\Implem_CU-102-enCsrpVS\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.exe
+D:\Aaarchiv UTN mios\DisSist_2021_UTN\PPAI_Grupal_2021\Implem_CU-102-enCsrpVS\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.pdb
+C:\Users\Windows 10\Desktop\PpaiImplementacion\PpaiImplementacion.IU\bin\Debug\PpaiImplementacion.IU.exe.config
+C:\Users\Windows 10\Desktop\PpaiImplementacion\PpaiImplementacion.IU\bin\Debug\PpaiImplementacion.IU.exe
+C:\Users\Windows 10\Desktop\PpaiImplementacion\PpaiImplementacion.IU\bin\Debug\PpaiImplementacion.IU.pdb
+C:\Users\Windows 10\Desktop\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.Pant_Principal.resources
+C:\Users\Windows 10\Desktop\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.Venta_Entradas.resources
+C:\Users\Windows 10\Desktop\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.exe
+C:\Users\Windows 10\Desktop\PpaiImplementacion\PpaiImplementacion.IU\obj\Debug\PpaiImplementacion.IU.pdb
